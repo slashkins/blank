@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+﻿# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -9,13 +9,13 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "ru-RU"
-title                    : "Название гайда"
+title                    : "Альтернативно Окрашенные Звери"
 title_separator          : "-"
-name                     : "Создатель гайда, xHR"
+name                     : "slashkin"
 description              : "Описание гайда"
-url                      : "https://blank.customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shiny.customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "rashevskyv/blank" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "slashkins/shiny-site" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
@@ -50,7 +50,7 @@ atom_feed:
   path                   : # blank (default) uses feed.xml
 
 # SEO Related
-google_site_verification : bXQ2KTFgfxyvvQx2cGGgbQ59jCOMNMbdSyuHmLPhSwE
+google_site_verification : 
 alexa_site_verification  :
 yandex_site_verification :
 
@@ -73,25 +73,25 @@ social:
 analytics:
   provider               : "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "UA-92824803-1"
+    tracking_id          :
 
 
 # Site Author
 author:
-  name             : "xHR"
-  avatar           : "/images/bio-photo.png"
-  location         : "Кривой рог, Украина"
-  email            : "rashevsky.v@gmail.com"
+  name             : "slashkin"
+  avatar           :
+  location         : "Москва, Россия"
+  email            : "sosnooleypc@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
-  vk               : "rashevskyv"
-#  vk_group         : "3ds_cfw"
+  vk               : "titova495"
+#  vk_group         : "shinypokes"
   flickr           :
   facebook         :
   foursquare       :
-  github           : "rashevskyv"
+  github           : "slashkins"
   google_plus      :
   keybase          :
   instagram        :
@@ -102,7 +102,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
   steam            :
   tumblr           :
-  twitter          : "xHR_"
+  twitter          :
   vine             :
   weibo            :
   xing             :
