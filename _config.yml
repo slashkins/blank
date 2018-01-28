@@ -12,7 +12,7 @@ locale                   : "ru-RU"
 title                    : "Альтернативно Окрашенные Звери"
 title_separator          : "-"
 name                     : "slashkin"
-description              : "Описание гайда"
+description              : "Советы и гайды как поймать альтернативно окрашенного зверя (шайни) в дикой природе очередного региона"
 url                      : "https://shiny.customfw.xyz" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "slashkins/shiny-site" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -79,7 +79,7 @@ analytics:
 # Site Author
 author:
   name             : "slashkin"
-  avatar           :
+  avatar           : "images/bio.png"
   location         : "Москва, Россия"
   email            : "sosnooleypc@gmail.com"
   uri              :
