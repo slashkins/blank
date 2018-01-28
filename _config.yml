@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint"
 
 # Site Settings
 locale                   : "ru-RU"
-title                    : "Альтернативно Окрашенные Звери"
+title                    : "<center>Альтернативно<br>Окрашенные<br>Звери</center>"
 title_separator          : "-"
 name                     : "slashkin"
 description              : "Советы и гайды как поймать альтернативно окрашенного зверя (шайни) в дикой природе очередного региона"
