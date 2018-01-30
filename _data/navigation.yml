@@ -12,9 +12,9 @@ main:
     url: /gbc
   - title: "Pokemon GBA"
     url: /gba
-  - title: "Pokemon DS"
-    url: /ds
-  - title: "Pokemon 3DS"
+  - title: "Pokemon<br>Nintendo DS"
+    url: /nds
+  - title: "Pokemon<br>Nintendo 3DS"
     url: /3ds
   - title: "Pokemon<br>Nintendo Switch"
     url: /switch
