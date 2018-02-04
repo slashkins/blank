@@ -92,4 +92,6 @@ excerpt: "Pokemon GB/GBC (VC)"
 
 <div class="notice--warning">{{ notice-10 | markdownify }}</div>
 
+А вообще - смотрите видео Марии Куценко <a href="https://www.youtube.com/watch?v=ENR0IvEv3xs" target="_blank">"Все о шайни в Pokemon Gold"</a>
+
 ![шайнигера](images\inserts\rare_red_gyarados___pokemon_4_by_thecatmello-d6gmtu4.png){: .align-center}<br>
