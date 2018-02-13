@@ -18,14 +18,12 @@ main:
     url: /3ds
   - title: "Pokemon<br>Nintendo Switch"
     url: /switch
-  - title: "Навигация по сайту"
-    url: /site-navigation
   - title: "Пожертвования"
     url: /donations
   - title: "Благодарности"
     url: /credits               
                 
 bottom:
-  - title: Если вам помогло или просто понравилось это руководство, то я принимаю <a href="/donations" target="_blank">пожертвования</a> на карту Visa, или Bitcoin.
-  - title: По вопросам, касающимся взлома обращайтесь в <a href="https://vk.com/3ds_cfw" target="_blank">группу в вконтакте</a>, <a href="https://discord.gg/h2s4aP7" target="_blank">Discord</a> или <a href="https://t.me/homebrew_group" target="_blank">Telegram</a>.
-  - title: Об ошибках и неточностях просьба писать в <a href="https://vk.com/3ds_cfw" target="_blank">группу руководства</a>, <a href="https://discord.gg/VKYYWmY" target="_blank">Discord</a> или в <a href="https://t.me/rashevskyv" target="_blank">Telegram</a>.
+  - title: Если вам помог сайт или просто понравилась задумка, то я принимаю <a href="/donations" target="_blank">пожертвования</a> на карту Visa, или QIWI.
+  - title: По вопросам, касающимся шайнихантинга обращайтесь в <a href="https://vk.com/shinypokes" target="_blank">группу в вконтакте</a>, <a href="https://discord.gg/PceUHyT" target="_blank">Discord</a>.
+  - title: Об ошибках и неточностях просьба писать в <a href="https://vk.com/3ds_cfw" target="_blank">группу редакции</a>, <a href="https://discord.gg/PceUHyT" target="_blank">Discord</a> или в <a href="sosnooleypc@gmail.com" target="_blank">Gmail</a>.
