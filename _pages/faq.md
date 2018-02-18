@@ -31,7 +31,7 @@ Shiny Pokémon (шайни, шайни покемон (рус.), сияющий 
 
 {% capture notice-10 %}
 
-Увы, вся их уникальность - окраска, <a href="https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon#Appearance" target="_blank">эффект при выходе из покеболла</a>, <a href="https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon#In_the_core_series_games" target="_blank">звездочка в профиле</a> и невообразимая (уже менее невообразимая) редкость. Но этим они и ценны. На ненужного шайника в гтс вам обменяют кого угодно, а коллекционер может предложить на обмен своего же шайни.
+Увы, вся их уникальность - окраска, <a href="https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon#Appearance" target="_blank"> эффект при выходе из покеболла</a>, <a href="https://bulbapedia.bulbagarden.net/wiki/Shiny_Pok%C3%A9mon#In_the_core_series_games" target="_blank"> звездочка в профиле</a> и невообразимая (уже менее невообразимая) редкость. Но этим они и ценны. На ненужного шайника в гтс вам обменяют кого угодно, а коллекционер может предложить на обмен своего же шайни.
 {% endcapture %} 
 
 <div class="notice--danger">{{ notice-10 | markdownify }}</div>
@@ -189,7 +189,7 @@ Shiny Pokémon (шайни, шайни покемон (рус.), сияющий 
 
 {% capture notice-10 %}
 
-*  **Шайни Гиардос** на озере Рэйдж в играх Pokemon Gold/Silver/Crystall и их ремейках - Heart Gold/Soul Silver.<br>
+*  **Шайни Гярадос** на озере Рэйдж в играх Pokemon Gold/Silver/Crystall и их ремейках - Heart Gold/Soul Silver.<br>
 По сюжету вы сразитесь с ним и поймаете, чтоб укротить зверя. <br>
 ![геардос](images\inserts\chrome_2018-01-28_22-35-38.png)![пик1](images\inserts\chrome_2018-01-28_22-35-46.png)<br>
 
