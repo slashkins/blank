@@ -5,9 +5,9 @@ author_profile: true
 ---
 
 
-В первую очередь, огромное спасибо <a href="https://vk.com/rashevskyv" target="_blank">Рашевскому Владу</a> за помощь в написаниии сайта и пояснении, как все это работает :D <br>
+В первую очередь, огромное спасибо <a href="https://vk.com/id95438" target="_blank">Рашевскому Владу</a> за помощь в написаниии сайта и пояснении, как все это работает :D <br>
 
-Еще спасибо группе <a href="https://vk.com/shinypokes" target="_blank">Шайни Покемоны</a> и лично <a href="https://vk.com/maria_art" target="_blank">Марии Куценко</a> за одобрение проекта в целом. <br>
+Еще спасибо группе <a href="https://vk.com/shinypokes" target="_blank">Шайни Покемоны</a> и лично <a href="https://vk.com/id2903608" target="_blank">Марии Куценко</a> за одобрение проекта в целом. <br>
 
 Cпасибо <a href="https://vk.com/id2668786" target="_blank">RenChan</a> за работу над ошибками и помощью в поиске некоторой информации, о которой я не знала.<br>
 
