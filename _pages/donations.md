@@ -13,7 +13,7 @@ author_profile: true
 {: .text-center}
 {: .notice--info}
 
-[![QIWI]({{ "/images/donate/qiwi.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
+[![QIWI-кошелек]({{ "/images/donate/qiwi.png" | absolute_url }}){:height="64px" width="256px"}{: style="padding-bottom: .35em"}](){: .align-center}
 **+7 915 030 16 65**<br>
 {: .text-center}
 {: .notice--info}
