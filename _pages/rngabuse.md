@@ -132,3 +132,5 @@ FFFUUUUUUUUU~ Самые близкие - более 40000 фреймов. По 
 Собственно теперь вы готовы лупить своего шайни!
 {% endcapture %}
 <div class="notice--info">{{ notice-10 | markdownify }}</div>
+
+![grrr](images\inserts\Shiny_Growlithe.png){: .align-center}<br>
