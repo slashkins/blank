@@ -5,4 +5,8 @@ author_profile: true
 excerpt: "Pokemon Nintendo Switch"
 ---
 
-![warning](images\inserts\back.png){: .align-center}<br>
+![warning](images\inserts\1111.jpg){: .align-center}<br>
+
+
+Что известно на данный момент есть по <a href="https://pokemonletsgo.pokemon.com/ru-ru/" target="_blank">этой ссылке.</a> Не читаем дисклеймер про невозможность коннекта игры с GO - все будет работать, я уже писала в группе почему. Как только выйдет игра и будет информация про шайни - вы узнаете о ней.<br>
+{: .notice--danger}
