@@ -7,7 +7,7 @@ header:
   overlay_image: images/homepagefeat.png
   overlay_filter: 0.5
   caption:
-excerpt: 'Гайды и советы как поймать шайни покемона от Generation 1 до Generation 8.<br />**Последнее изменение:** 26 января 2020'
+excerpt: 'Гайды и советы как поймать шайни покемона от Generation 1 до Generation 8.<br />**Последнее изменение:** 11 июля 2020'
 ---
 
 
