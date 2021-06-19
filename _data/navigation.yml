@@ -2,7 +2,7 @@
 main:
   - title: "<b>FAQ</b>"
     url: /faq
-  - title: "Это<br>интересно"
+  - title: "Это интересно<br>+<br>словарь"
     url: /interdasting
   - title: "RNG-гайды и<br>абьюзы"
     url: /rngabuse
